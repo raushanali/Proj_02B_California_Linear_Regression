@@ -12,7 +12,7 @@ Split the data into training and testing sets
 Train a Linear Regression model and evaluate its performance (MSE, R2 score)
 Visualize the comparison between actual and predicted prices (Actual vs Predicted scatter plot)
 
-How to Use
+How to Use: 
 Run the code in Python (make sure scikit-learn and matplotlib are installed).
 When you run the code, you will get the MSE and R2 scores for training and testing, along with two graphs:
 One graph showing house prices based on Latitude and Longitude.
